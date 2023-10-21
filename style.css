@@ -1,0 +1,12 @@
+#box{
+    position: absolute;
+    background-color: aquamarine;
+    width: 200px;
+    height: 150px;
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px black solid;
+    text-align: center;
+}
+
+    
