@@ -1,3 +1,3 @@
 # Basic-Keypress-Movement
 
-Move a box using W S A D 
+Move a box using Arrow keys. 
